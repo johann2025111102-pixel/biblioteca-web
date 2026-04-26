@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$db = "biblioteca_db";
+$host = "sqlXXX.epizy.com";
+$user = "if0_41763417";   
+$pass = "CroNos1499";
+$db   = "if0_41763417_if0_12345678_biblioteca";
 
 $conn = new mysqli($host, $user, $password, $db);
 
