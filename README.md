@@ -46,3 +46,11 @@ Incluye archivo: database/biblioteca
 
 ## 👨‍💻 Autor
 Proyecto desarrollado por Johann Muñiz Luna
+
+
+
+---
+
+## Datos de acceso
+Usuario: admin@test.com
+Contraseña Admin123
